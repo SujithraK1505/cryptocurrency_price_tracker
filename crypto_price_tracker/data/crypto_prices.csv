@@ -1,0 +1,3 @@
+timestamp_utc,rank,name,symbol,price_usd,change_24h_percent,market_cap_usd
+2026-09-08T15:30:47+00:00,1,Bitcoin,BTC,68100.25,2.45,1340000000000.0
+2026-09-08T15:30:47+00:00,5,Solana,SOL,172.3,4.61,79000000000.0
